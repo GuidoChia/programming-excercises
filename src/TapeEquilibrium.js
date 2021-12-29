@@ -28,4 +28,5 @@ function solution(A) {
 }
 
 console.log(solution([3, 1, 2, 4, 3]))
+console.log(solution([100, 2, 1, 4, 2, 104]))
 console.log(solution([-1000, 1000]))
